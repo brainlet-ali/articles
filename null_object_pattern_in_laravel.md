@@ -180,3 +180,5 @@ to `Unknown user`.
 In this article, we learned how to implement the Null Object Pattern in Laravel
 and how it can help us avoid null references. For more information, you can check out
 the [official documentation](https://laravel.com/docs/10.x/eloquent-relationships#default-models).
+
+**Medium Article**: https://brainlet.medium.com/null-safety-in-laravel-null-object-pattern-cb78682ac630 
